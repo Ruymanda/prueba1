@@ -17,6 +17,7 @@ public class Pastelazo1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Version 1.0");  
+        System.out.println("Rama Version");
     }
     
 }
