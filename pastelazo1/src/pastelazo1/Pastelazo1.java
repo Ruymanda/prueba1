@@ -7,7 +7,7 @@ package pastelazo1;
 
 /**
  *
- * @author DPTOSISTEMAS
+ * @author RUYMAN DIAZ ARMAS
  */
 public class Pastelazo1 {
 
@@ -16,6 +16,7 @@ public class Pastelazo1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Version 1.0");  
     }
     
 }
